@@ -3,6 +3,8 @@
 ## About me
 I'm a software engineer who is passionate about creating technology to elevate people, and constantly building/trying new things using cutting edge technology. Some technologies I enjoy working with include ReactJS, TypeScript and Swift.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=romfrancois&title=Commit,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=romfrancois)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
